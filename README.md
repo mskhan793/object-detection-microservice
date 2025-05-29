@@ -272,7 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This project is inspired by and gives credit to the original microservice implementation by [mskhan793](https://github.com/mskhan793/Microservice-for-Object-Detection). Special thanks for the foundational architecture and approach.
+This project is inspired by and gives credit to the original microservice implementation by [anilpankaj](https://github.com/anilpankaj/Microservice-for-Object-Detection). Special thanks for the foundational architecture and approach.
 
 ---
 
